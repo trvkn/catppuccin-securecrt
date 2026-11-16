@@ -2,6 +2,8 @@
 
 [Catppuccin](https://github.com/catppuccin/catppuccin) color schemes and 16-color ANSI palettes for [SecureCRT](https://www.vandyke.com/products/securecrt/), in all four flavors: Latte, Frappé, Macchiato and Mocha.
 
+This is an unofficial community port. It is not affiliated with or endorsed by the Catppuccin organization.
+
 Colors come from the official Catppuccin palette (v1.8.0), including its ANSI mapping for normal and bright colors.
 
 > [!NOTE]
@@ -75,9 +77,9 @@ Restore the backup, or remove the `Catppuccin ...` lines from both lists and low
 
 ## Credits
 
-- [Catppuccin](https://github.com/catppuccin/catppuccin) for the palette
+- [Catppuccin](https://github.com/catppuccin/catppuccin) for the palette. Color values are taken from [catppuccin/palette](https://github.com/catppuccin/palette), MIT License, Copyright (c) 2021 Catppuccin
 - [Dracula for SecureCRT](https://github.com/dracula/securecrt) for documenting the `Global.ini` format
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE). The Catppuccin palette is also MIT licensed; its copyright notice is kept in [NOTICE](NOTICE).
